@@ -1,0 +1,104 @@
+header{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(244, 244, 244);
+    display: table;
+    background-image:url(https://i0.wp.com/juanosborne.com/wp-content/uploads/2014/04/JO-D-140420-Gabo03.jpg?ssl=1) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+#titulo{
+    margin-top: 100px;
+    margin-right: 55%;
+    margin-left: 3%;
+    font-size: 27pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:lighter;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+/* SECTION */
+section{
+    padding: 2% 2% 0 2%;
+    background-color: white;
+}
+
+/* FOOTER */
+footer{
+    width: 100%;
+    padding: 0 2% 2%;
+    background-color: white;
+}
+
+.foot{
+    background: linear-gradient(180deg, rgba(255,247,223,1) 1%, rgba(245,242,235,1) 39%);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    text-align: center;
+    padding: 3% 2% 3%;
+    bottom: 0;
+}
+
+/* TIPOS DE FONT */
+h2{
+    margin: 3% 0 3%;
+    color: black;
+    font-weight: bold;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color: black;
+    font-family:Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+/* AUXILIARES */
+.image-head{
+    height: 400px;
+    width: 100%;
+}
+
+.imagen1{
+    margin: 3% 0 3%;
+    border-radius: 3%;
+    width: 550px;
+    height: 400px;
+}
+
+.imagen2{
+    margin: 3% 0 3%;
+    border-radius: 3%;
+    width: 550px;
+    height: 550px;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.text-card{
+    font-size: 10pt;
+    color: gray;
+}
+
+.text-rigth{
+    margin-left: 51%;
+}
+
+.background{
+    background: linear-gradient(180deg, rgba(234,255,223,1) 30%, rgba(255,247,223,1) 30%, rgba(238,253,223,1) 87%, rgba(255,247,223,1) 100%);
+}
+
+hr{
+    border: 1.5px solid #848404;
+    border-radius: 20%;
+}
